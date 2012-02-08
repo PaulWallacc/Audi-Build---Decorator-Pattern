@@ -1,0 +1,10 @@
+Audi BUild
+
+This is a simple program I creaded in my Sofware Systems Analysis nad Design class that demonstrates the decorator pattern.
+
+The program allows you to'build an audi a4 based on options you select. As you select an option the descroption of the audi changes and the prices is adjusted accordingly. At the end of the program you can review the final description and cost of the audi.
+
+Paul Wallace
+Paul.Wallace@hrMecca.com
+PaulWallacc@gmail.com
+
