@@ -1,0 +1,5 @@
+c:\users\paul wallace\documents\visual studio 2010\Projects\AudiBuild\AudiBuild\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\paul wallace\documents\visual studio 2010\Projects\AudiBuild\AudiBuild\bin\Debug\AudiBuild.exe
+c:\users\paul wallace\documents\visual studio 2010\Projects\AudiBuild\AudiBuild\bin\Debug\AudiBuild.pdb
+c:\users\paul wallace\documents\visual studio 2010\Projects\AudiBuild\AudiBuild\obj\x86\Debug\AudiBuild.exe
+c:\users\paul wallace\documents\visual studio 2010\Projects\AudiBuild\AudiBuild\obj\x86\Debug\AudiBuild.pdb
